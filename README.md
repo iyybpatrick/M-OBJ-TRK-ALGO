@@ -1,4 +1,4 @@
-# MKCF
+# Algorithm MKCF
 
 This is the source code for Algorithm MKCF.
 
